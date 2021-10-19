@@ -1,6 +1,6 @@
 # Roman numeral converter
 
-> Convert decimals (1, 2, 3, 4, 5, 6, ...) to Roman numerals (I, II, III, IV, V, VI, ...)
+> Convert Roman numerals (I, II, III, IV, V, VI, ...) to decimals (1, 2, 3, 4, 5, 6, ...) 
 
 Mappings:
 
